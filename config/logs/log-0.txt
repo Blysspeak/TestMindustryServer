@@ -1,0 +1,14 @@
+[05-03-2024 22:47:33] [I] Server loaded. Type 'help' for help.
+[05-03-2024 22:47:45] [I] Server loaded. Type 'help' for help.
+[05-03-2024 22:47:50] [I] Randomized next map to be Ancient Caldera.
+[05-03-2024 22:47:50] [I] Loading map...
+[05-03-2024 22:47:50] [I] Map loaded.
+[05-03-2024 22:47:50] [I] Opened a server on port 6567.
+[05-03-2024 22:48:24] [I] Server loaded. Type 'help' for help.
+[05-03-2024 22:48:27] [I] Randomized next map to be Maze.
+[05-03-2024 22:48:27] [I] Loading map...
+[05-03-2024 22:48:28] [I] Map loaded.
+[05-03-2024 22:48:28] [I] Opened a server on port 6567.
+[05-03-2024 22:48:47] [I] Blysspeak has connected. [0EbGH6Xu3UQAAAAA/Qs+ig==]
+[05-03-2024 22:49:01] [I] Blysspeak has disconnected. [0EbGH6Xu3UQAAAAA/Qs+ig==] (closed)
+[05-03-2024 22:49:05] [I] Stopped server.
